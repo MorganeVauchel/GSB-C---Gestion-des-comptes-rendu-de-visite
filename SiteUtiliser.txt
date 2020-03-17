@@ -1,0 +1,4 @@
+https://www.developpez.net/forums/d991684/dotnet/developpement-windows/windows-forms/reduire-winform-click-croix-rouge/
+https://docs.microsoft.com/fr-fr/dotnet/api/system.windows.forms.form.formclosing?view=netframework-4.8
+https://stackoverflow.com/questions/19641427/formclosing-and-formclosed-events-do-not-work
+https://stackoverflow.com/questions/15906090/change-color-of-label-in-c-sharp
